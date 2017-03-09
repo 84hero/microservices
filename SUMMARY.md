@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [介绍](README.md)
 * [1.微服务简介](chapter1.md)
 * 2.构建微服务：使用API​​网关
 * 3.构建微服务：微服务架构中的进程间通信
