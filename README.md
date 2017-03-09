@@ -2,13 +2,13 @@
 
 本文所有内容翻译自：[nginx](https://www.nginx.com/blog/introduction-to-microservices/)
 
-1. _微服务简介_
-2. _构建微服务：使用API​​网关_
-3. _构建微服务：微服务架构中的进程间通信_
-4. _微服务架构中的服务发现_
-5. _事件驱动的数据管理微服务_
-6. _选择微服务部署策略_
-7. _将重组重构为微服务_
+1. [_微服务简介_](/chapter1.md)
+2. [_构建微服务：使用API​​网关_](/2.api.md)
+3. [_构建微服务：微服务架构中的进程间通信_](/3..md)
+4. [_微服务架构中的服务发现_](/4..md)
+5. [_事件驱动的数据管理微服务_](/5..md)
+6. [_选择微服务部署策略_](/6..md)
+7. [_将重组重构为微服务_](/7..md)
 
 _您还可以下载完整的英文文章集，以及使用NGINX Plus实现微服务的信息，作为电子书 -_[_微服务：从设计到部署_](https://www.nginx.com/resources/library/designing-deploying-microservices/?utm_source=introduction-to-microservices&utm_medium=blog&utm_campaign=Microservices)_。_
 
