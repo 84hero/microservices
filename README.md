@@ -2,7 +2,7 @@
 
 本文所有内容翻译自：[nginx](https://www.nginx.com/blog/introduction-to-microservices/)
 
-1. _微服务简介（本文）_
+1. _微服务简介_
 2. _构建微服务：使用API​​网关_
 3. _构建微服务：微服务架构中的进程间通信_
 4. _微服务架构中的服务发现_
