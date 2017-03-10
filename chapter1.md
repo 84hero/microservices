@@ -1,12 +1,11 @@
 _这七个系列的文章现在完成：_
 
-1. _微服务简介（本文）_
-2. _构建微服务：使用API​​网关_
-3. _构建微服务：微服务架构中的进程间通信_
-4. _微服务架构中的服务发现_
-5. _事件驱动的数据管理微服务_
-6. _选择微服务部署策略_
-7. _将重组重构为微服务_
+1. [_构建微服务：使用API​​网关_](/2.api.md)
+2. [_构建微服务：微服务架构中的进程间通信_](/3..md)
+3. [_微服务架构中的服务发现_](/4..md)
+4. [_事件驱动的数据管理微服务_](/5..md)
+5. [_选择微服务部署策略_](/6..md)
+6. [_将重组重构为微服务_](/7..md)
 
 _您还可以下载完整的文章集，以及使用NGINX Plus实现微服务的信息，作为电子书 -_[_微服务：从设计到部署_](https://www.nginx.com/resources/library/designing-deploying-microservices/?utm_source=introduction-to-microservices&utm_medium=blog&utm_campaign=Microservices)_。_
 
@@ -76,8 +75,7 @@ _您还可以下载完整的文章集，以及使用NGINX Plus实现微服务的
 
 微服务架构模式显着影响应用程序和数据库之间的关系。不是与其他服务共享单个数据库模式，每个服务都有自己的数据库模式。一方面，这种方法与企业级数据模型的想法不一致。此外，它经常导致一些数据的重复。但是，如果您希望从微服务中受益，则必须为每个服务提供数据库模式，因为它确保了松散耦合。下图显示了示例应用程序的数据库体系结构。
 
-![](https://cdn.wp.nginx.com/wp-content/uploads/2015/05/intro-microservices.png "数据库架构在示例微服务应用程序的乘车服务")  
-
+![](https://cdn.wp.nginx.com/wp-content/uploads/2015/05/intro-microservices.png "数据库架构在示例微服务应用程序的乘车服务")
 
 每个服务都有自己的数据库。此外，服务可以使用最适合其需要的类型的数据库，所谓的多语言持久性架构。例如，查找靠近潜在乘客的驱动程序的驱动程序管理必须使用支持高效地理查询的数据库。
 
@@ -117,7 +115,7 @@ _您还可以下载完整的文章集，以及使用NGINX Plus实现微服务的
 
 敬请关注…
 
-_**编辑** - 这七个系列的文章现在完成：_
+_**编辑** - 这七个系列的文章现在完成：_
 
 1. _微服务简介（本文）_
 2. _构建微服务：使用API​​网关_
@@ -128,7 +126,4 @@ _**编辑** - 这七个系列的文章现在完成：_
 7. _将重组重构为微服务_
 
 _您还可以下载完整的文章集，以及使用NGINX Plus实现微服务的信息，作为电子书 -_[_微服务：从设计到部署_](https://www.nginx.com/resources/library/designing-deploying-microservices/?utm_source=introduction-to-microservices&utm_medium=blog&utm_campaign=Microservices)_。_
-
-  
-
 
